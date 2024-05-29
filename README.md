@@ -22,7 +22,7 @@
 <li>
 <p><strong>Set your name and email</strong>:</p>
 <pre><code class="language-bash">git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"</code></pre>
+<pre><code class="language-bash">git config --global user.email "your.email@example.com"</code></pre>
 </li>
 <li>
 <p><strong>Check the configuration</strong>:</p>
